@@ -16,3 +16,6 @@ page with some red text. Extract the token from that URL.
 #### Facebook User ID
 [Just put your profile name in on this
 site](http://findmyfacebookid.com/)
+
+### Example
+![In action](https://github.com/brentvatne/tinder-client-examples/blob/master/example.gif)
