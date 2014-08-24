@@ -1,0 +1,9 @@
+{
+  "name": "tinder-js-example",
+  "version": "0.0.1",
+  "repository": "https://github.com/ux-designer/firstExpressApp",
+  "main": "app.js",
+  "dependencies": {
+    "tinderjs": "alkawryk/tinderjs"
+  }
+}
